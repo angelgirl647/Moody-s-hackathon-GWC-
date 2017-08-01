@@ -1,0 +1,13 @@
+body{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background-color: #e6b3ff;
+        background-image: url("https://s10.favim.com/610/160402/sky-tumblr-clouds-city-Favim.com-4156170.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+
+
+#add-btn{
+  background: #cc66ff;
+}
